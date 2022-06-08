@@ -1,6 +1,8 @@
 RENCANA KONTEN JULIAN
 
 - Javascript
+  * ES6
+  * Frameworks Javascript
 - PHP Frameworks
 - Interview
 - Vlogs
